@@ -1,6 +1,6 @@
 # Projeto Task List Maker
 
-## Teste pratico de um app de Todo-List.
+## Teste pratico de um app de Todo-List fullstack.
 
 ### Pré-requisitos
 
